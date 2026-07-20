@@ -4271,6 +4271,17 @@
     <feed>https://github.com/ArsenShnurkov/shnurise/commits/master.atom</feed>
   </repo>
   <repo quality="experimental" status="unofficial">
+    <name>shortcircuit-overlay</name>
+    <description lang="en">S.Fynn's personal overlay</description>
+    <homepage>https://codeberg.org/synnfynn/shortcircuit-overlay</homepage>
+    <owner type="person">
+      <email>synnfynn@shortcircuit.bar</email>
+      <name>S.Fynn</name>
+    </owner>
+    <source type="git">https://codeberg.org/synnfynn/shortcircuit-overlay.git</source>
+    <feed>https://codeberg.org/synnfynn/shortcircuit-overlay.rss</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>sinustrom</name>
     <description lang="en">Sinustrom Gentoo Overlay</description>
     <homepage>https://codeberg.org/zpuskas/sinustrom-gentoo-overlay/</homepage>
